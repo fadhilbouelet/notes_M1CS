@@ -12,6 +12,7 @@ jobs:
       - name: Deploy to production
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PYPI_TOKEN: ${{ secrets.VERY_SECRET_TOKEN }}
         run: |
           echo "Branch: ${{ github.ref_name }}"
           echo "Commit: ${{ github.sha }}"
