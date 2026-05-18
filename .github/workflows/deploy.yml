@@ -21,4 +21,4 @@ jobs:
           echo "Branch: ${{ github.ref_name }}"
           echo "Commit: ${{ github.sha }}"
           echo "Author: ${{ github.actor }}"
-          echo "Deploying: ${{ github.event.pull_request_target.title }}"
+          echo "Deploying: ${{ github.event.pull_request.title }}"
