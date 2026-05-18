@@ -11,13 +11,13 @@
     {
       "nom": "ANDRIES",
       "prenom": "Florian",
-      "note": 0,
+      "note": 20,
       "sur": 20
     },
     {
       "nom": "BERNARD",
       "prenom": "Tom",
-      "note": 0,
+      "note": 20,
       "sur": 20
     },
     {
@@ -41,43 +41,43 @@
     {
       "nom": "CHARLES",
       "prenom": "Hugo",
-      "note": 0,
+      "note": 20,
       "sur": 20
     },
     {
       "nom": "CLAVERIE",
       "prenom": "Dorian",
-      "note": 0,
+      "note": 20,
       "sur": 20
     },
     {
       "nom": "COMPAGNON",
       "prenom": "Romain",
-      "note": 0,
+      "note": 20,
       "sur": 20
     },
     {
       "nom": "COT",
       "prenom": "Hugo",
-      "note": 0,
+      "note": 20,
       "sur": 20
     },
     {
       "nom": "DUMAS",
       "prenom": "Clément",
-      "note": 0,
+      "note": 20,
       "sur": 20
     },
     {
       "nom": "DUVIGNAU",
       "prenom": "Yannis",
-      "note": 0,
+      "note": 20,
       "sur": 20
     },
     {
       "nom": "ERNANDEZ",
       "prenom": "Alexandre",
-      "note": 0,
+      "note": 19.9999999,
       "sur": 20
     },
     {
@@ -89,13 +89,13 @@
     {
       "nom": "GUASCO",
       "prenom": "Arthur",
-      "note": 0,
+      "note": 20,
       "sur": 20
     },
     {
       "nom": "KHENNOUCHI",
       "prenom": "Djamil Mahmoud",
-      "note": 0,
+      "note": 20,
       "sur": 20
     },
     {
@@ -119,7 +119,7 @@
     {
       "nom": "MAROLLEAU",
       "prenom": "Marius",
-      "note": 0,
+      "note": 20,
       "sur": 20
     },
     {
@@ -131,19 +131,19 @@
     {
       "nom": "MIGNOT",
       "prenom": "Théodore",
-      "note": 0,
+      "note": 20,
       "sur": 20
     },
     {
       "nom": "MOURLOT",
       "prenom": "Antoine",
-      "note": 0,
+      "note": 20,
       "sur": 20
     },
     {
       "nom": "NIANG",
       "prenom": "Bineta",
-      "note": 0,
+      "note": 20,
       "sur": 20
     },
     {
@@ -161,7 +161,7 @@
     {
       "nom": "PERDOUX",
       "prenom": "Adrien",
-      "note": 0,
+      "note": 20,
       "sur": 20
     },
     {
@@ -173,7 +173,7 @@
     {
       "nom": "PRADIÉ NOIR",
       "prenom": "Jacques",
-      "note": 0,
+      "note": 20,
       "sur": 20
     },
     {
@@ -185,7 +185,7 @@
     {
       "nom": "SAWADOGO",
       "prenom": "Cheick Abdel Hadime Hakim",
-      "note": 0,
+      "note": 20,
       "sur": 20
     },
     {
